@@ -1,0 +1,5 @@
+hand_env/
+__pycache__/
+*.pyc
+debug_log.txt
+error_log.txt
